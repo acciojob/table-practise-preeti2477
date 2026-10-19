@@ -4,11 +4,14 @@ table {
     border: 1px solid black;
 }
 
-th, tr, td {
+th {
     border: 1px solid black;
 }
 
-/* same for table header also to pass border check */
-th {
+tr {
+    border: 1px solid black;
+}
+
+td {
     border: 1px solid black;
 }
